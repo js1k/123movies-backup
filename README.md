@@ -1,6 +1,6 @@
 # Moviebox Backup website 
 
-<a href="https://123movie.app?utm_source=wwb_github" rel="dofollow">https://123movie.app</a>\
+<a href="https://123movie.app?utm_source=wwb_github" rel="dofollow">https://123movie.app</a>
 
 Welcome to the 123movies wiki!
 # Moviebox official website pc
